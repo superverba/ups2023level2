@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Уровень 2</string>
+
+    <string name="login_fragment_label">Вход</string>
+    <string name="signup_fragment_label">Регистрация</string>
+
+    <string name="hello_login_fragment">Заполните поля для входа в систему</string>
+
+    <string name="hello_signup_1_fragment">Вас привел</string>
+    <string name="hello_signup_1_5_fragment">id33333 Alexey Alexey</string>
+    <string name="hello_signup_2_fragment">За это ты получаешь</string>
+    <string name="hello_signup_2_5_fragment">999 KZT</string>
+    <string name="hello_signup_3_fragment">Пожалуйста, заверши регестрацию</string>
+
+    <string name="hello_success_fragment">Вы успешно зарегестрировались по реферальной программе!</string>
+    <string name="hello_success_2_fragment"><u>Скачайте приложение</u></string>
+    <string name="hello_success_2_5_fragment">и получите еще</string>
+
+    <string name="hello_success_3_fragment">150 KZT</string>
+    <string name="hello_success_3_5_fragment">на свой счет немедленно!</string>
+
+    <string name="hello_success_4_fragment">После скачивания приложения требуется</string>
+    <string name="hello_success_4_5_fragment">авторизироваться со своим логином и паролем!</string>
+
+    <string name="hello_success_5_fragment">Приводи друзей - играй бесплатно!</string>
+
+
+    <string name="hello_recovery_fragment">Восстановление аккаунта</string>
+
+    <string name="filial_placeholder">Выберите филиал</string>
+    <string name="id_placeholder">Логин / ID / email / Телефон</string>
+    <string name="login_placeholder">Логин</string>
+    <string name="first_name_placeholder">Имя</string>
+    <string name="last_name_placeholder">Фамилия</string>
+    <string name="email_placeholder">Введите e-mail</string>
+    <string name="password_placeholder">Пароль</string>
+    <string name="number_placeholder">Телефон</string>
+    <string name="terms_of_use_mob"><u>Я принимаю условие пользования приложения</u></string>
+    <string name="terms_of_use_web"><u>Я принимаю условие пользования сайта</u></string>
+
+    <string name="first">После скачивания приложения треуется авторизироваться со своим логином и паролем!</string>
+    <string name="second">Приводи друзей - играй бесплатно!</string>
+
+    <string name="no_acc">Нет аккаунта?</string>
+    <string name="no_acc_2"><u>Зарегестрируйтесь</u></string>
+
+    <string name="forgot_pass">Забыли пароль?</string>
+    <string name="recovery_pass"><u>Восстановить</u></string>
+    <string name="already_acc"><u>Уже есть аккаунт?</u></string>
+    <string name="login_acc"><u>Войти</u></string>
+
+    <string name="you_come_w">Вас привел</string>
+    <string name="w_name">id33333 Alexey Alexey</string>
+    <string name="u_get">За это ты получаешь</string>
+    <string name="kzt_get">999 KZT</string>
+    <string name="please">Пожалуйста, заверши регистрацию</string>
+
+</resources>
